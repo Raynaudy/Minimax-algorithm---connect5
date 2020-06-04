@@ -14,6 +14,6 @@ Final result of a game with 2000ms for each player.
 
 Code is situated in 2 .class file : 
 
-- [Etat.class](planeteH_2/Etat.class)
-- [Intervalle.class](planeteH_2/Intervalle.class)
+- [Etat.java](planeteH_2/Etat.java)
+- [Intervalle.java](planeteH_2/Intervalle.java)
 
