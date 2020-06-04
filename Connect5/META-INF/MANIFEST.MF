@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./
+Class-Path: .
+Rsrc-Main-Class: planeteH_2.FenetrePlaneteH_2
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+

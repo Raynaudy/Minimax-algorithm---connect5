@@ -1,0 +1,2 @@
+javac Connect5Game/Main.java ou javac Connect5Game/*.java
+java Connect5Game/Main
