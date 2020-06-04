@@ -7,7 +7,7 @@ Implementation of [Minimax algorithm](https://en.wikipedia.org/wiki/Minimax) for
 ## Example of execution
 
 Final result of a game with 2000ms for each player.
-![alt text](screenshot/finalResult.png "Logo Title Text 1")
+![Game screenshot](screenshot/finalResult.png "Game screenshot")
 
 
 ## Project structure
