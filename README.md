@@ -2,7 +2,7 @@
 
 ## Context 
 
-Implementation of [Minimax algorithm](https://en.wikipedia.org/wiki/Minimax) for a [Connect5/Gomoku game](https://en.wikipedia.org/wiki/Gomoku) in Java for [IA class @ UQAM](https://etudier.uqam.ca/cours?sigle=INF4230).
+Implementation of [Minimax algorithm](https://en.wikipedia.org/wiki/Minimax) for a [Connect5/Gomoku game](https://en.wikipedia.org/wiki/Gomoku) in Java for [AI course @ UQAM](https://etudier.uqam.ca/cours?sigle=INF4230).
 
 ## Example of execution
 
